@@ -1,3 +1,75 @@
 body{
-    background-color: salmon;
+    background-color: cream;
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+    
+    
+}
+
+header{
+    background-color: rgb(0, 97, 73);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    border-style: solid;
+    border-bottom: 10px solid rgb(252, 185, 166);
+    color:rgb(0, 97, 73);
+    
+}
+
+a{
+    float: right;
+    padding: 10px;
+    margin-right: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    
+    
+    
+}
+
+h1{
+    text-align: center;
+    color: rgb(53, 39, 29);
+}
+
+img{
+    float: center;
+}
+
+p{
+    width: 25%;
+    margin: auto;
+    color: rgb(53, 39, 29);
+}
+
+footer{
+    background-color: rgb(253, 219, 210);
+    position: fixed;
+    bottom:0%;
+    width: 100%;
+    border-top: 9px;
+    border-style: solid;
+    border-color: rgb(252, 185, 166);
+    
+}
+
+form{
+    border: 10px;
+    color: rgb(53, 39, 29);
+    border: 5px solid rgb(252, 185, 166);
+    
+    
+    
+}
+
+button{
+    color:rgb(53, 39, 29)
+}
+
+section{
+    height: 10000px;
 }
